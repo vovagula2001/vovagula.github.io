@@ -196,3 +196,35 @@ margin-top: 0;
 		text-align: center;
 	}
 }
+.img-1{
+	position: absolute;
+	margin-left: -554px;
+	margin-top: 80px;
+	width: 59%;
+	height: 210px;
+}
+.portfolio-a {
+    color: #0000d0; /* Цвет ссылок */
+    padding: 2px; /* Поля вокруг текста */ 
+   }
+  .portfolio-a:hover {
+    background:#00b557 ; /* Цвет фона под ссылкой */ 
+    color: #fff; /* Цвет ссылки */ 
+   } 
+.header-button {
+    color: #072b6f;; 
+   
+   }
+  .header-button:hover {
+    background:#00b557 ;  
+    color: #fff; 
+   } 
+
+.footer-button {
+    color: #deedfe;
+    
+   }
+  .footer-button:hover {
+    background:#00b557 ;  
+    color: #fff; 
+   } 
